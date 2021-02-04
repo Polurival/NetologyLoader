@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Netology.TitleText" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/text_size_30</item>
+    </style>
+
+    <style name="Netology.SubjectTitleText" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/text_size_20</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Netology.SubjectSubtitleText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/text_size_16</item>
+        <item name="android:textColor">@android:color/tertiary_text_light</item>
+    </style>
+
+</resources>

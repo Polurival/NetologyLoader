@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">NetologyLoader</string>
+    <string name="learning_items_title">Изучайте актуальные темы</string>
+    //quantity=["zero" | "one" | "two" | "few" | "many" | "other"]
+    <plurals name="courses_plural">
+        <item quantity="zero">%d курсов</item>
+        <item quantity="one">%d курс</item>
+        <item quantity="two">%d курса</item>
+        <item quantity="few">%d курса</item>
+        <item quantity="many">%d курсов</item>
+        <item quantity="other">%d курсов</item>
+    </plurals>
+    <string name="some_error">Ошибка: %s</string>
 </resources>
