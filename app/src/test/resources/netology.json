@@ -1,0 +1,674 @@
+{
+  "data": [
+    {
+      "groups": [
+        {
+          "id": "159bf7c0-c5cf-4b75-8f59-fdf2b33291d3",
+          "link": "",
+          "badge": {
+            "text": "НЕО",
+            "color": "#47C397",
+            "bgColor": "#EDFBF6"
+          },
+          "items": [
+            {
+              "id": "90f9ed55-ee4c-48c9-9245-edae887186f7",
+              "link": "/programs/distance-course-internet-marketing",
+              "badge": {
+                "text": "",
+                "color": "#E62B69",
+                "bgColor": "#FFE4E4"
+              },
+              "title": "Интернет-маркетолог"
+            },
+            {
+              "id": "e40066dc-3166-4231-8540-b33f57e0f088",
+              "link": "/programs/smm-specialist",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "SMM-менеджер"
+            },
+            {
+              "id": "4a2fd21e-6d6b-4b27-9038-aa9dccd0b45c",
+              "link": "/programs/editor-ed",
+              "badge": {
+                "text": "",
+                "color": "#35D252",
+                "bgColor": "#D8FFE5"
+              },
+              "title": "Коммерческий редактор / копирайтер"
+            },
+            {
+              "id": "c44fb5fd-d329-4daa-8c1c-17bbe0c6b6da",
+              "link": "/programs/context-target",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Контекстная реклама"
+            },
+            {
+              "id": "6eb648d9-72cf-4899-9291-376181fffd52",
+              "link": "/programs/target-smm",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Таргетированная реклама"
+            },
+            {
+              "id": "286bc2fe-0e07-4ee0-976e-cd0d1649e9b5",
+              "link": "/programs/e-mail-marketing",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Email-маркетинг"
+            },
+            {
+              "id": "f0eb5467-3dea-4bed-9892-ac51c3abe9d9",
+              "link": "/programs/digital-pr",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "PR в digital"
+            },
+            {
+              "id": "6d90edfc-e861-4d63-a78e-a4b92543546d",
+              "link": "/programs/seo-specialist",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "SEO-специалист"
+            },
+            {
+              "id": "7cdec471-656c-475f-9929-6aa2ffd91692",
+              "link": "/programs/brandmanagement",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Бренд-менеджмент"
+            },
+            {
+              "id": "8ac9b078-da41-4a42-8b34-4c31ee467c59",
+              "link": "/programs/videomarketing",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Видеомаркетинг"
+            },
+            {
+              "id": "484c26b3-077a-4433-bea4-334a1a607cdd",
+              "link": "/programs/quiz-marketing",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Квиз-маркетинг"
+            },
+            {
+              "id": "8622c589-9cba-4b63-88f7-053267fbd321",
+              "link": "/programs/kontent-marketing",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Контент-маркетолог"
+            },
+            {
+              "id": "999f7d1a-8a78-4ac8-8369-95fe23ecbd6c",
+              "link": "/programs/kontent-menedjer-edpro",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Профессия Контент-менеджер"
+            },
+            {
+              "id": "cf711511-f4de-4f84-a4f1-79a1fa4d2a27",
+              "link": "/programs/sozdanie-podkastov-ot-idei-do-zapuska",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Создание подкастов"
+            },
+            {
+              "id": "040ed0e8-58f7-4bf8-95ad-2c7d130fac52",
+              "link": "/programs/landing-pages",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Создание лендингов"
+            }
+          ],
+          "title": "Для начинающих"
+        },
+        {
+          "id": "009af6f1-cde6-4899-929c-d89077cd862f",
+          "link": "",
+          "badge": {
+            "text": "ПРО",
+            "color": "#0066FF",
+            "bgColor": "#E6F0FF"
+          },
+          "items": [
+            {
+              "id": "28371a1d-2b18-4ed1-a6dd-a94d5626d4c4",
+              "link": "/programs/marketing-director",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Директор по интернет-маркетингу"
+            },
+            {
+              "id": "02bb3e6e-2b69-4951-9dea-397db388df58",
+              "link": "/programs/smmpro#/",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "SMM для PRO"
+            },
+            {
+              "id": "f077cf26-2e11-40ff-ace3-a21dc0c8c8df",
+              "link": "/programs/head-of-smm",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Управление командой SMM"
+            },
+            {
+              "id": "a9ffbc3d-c6a4-4e61-82ec-6fea204beb2c",
+              "link": "/programs/krpro",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Контекстная реклама PRO"
+            },
+            {
+              "id": "837f80fd-4c9d-4eb6-9d23-b63bc853a589",
+              "link": "https://netology.ru/programs/marketing-internet-magazinov",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Продвижение интернет-магазинов"
+            },
+            {
+              "id": "b11b38f4-1d2d-4c30-80a4-117fff87b0d8",
+              "link": "https://netology.ru/programs/target-pro",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Таргетированная реклама PRO"
+            },
+            {
+              "id": "68048a00-bda1-4524-811d-aca6f809d7ad",
+              "link": "/programs/digital-marketing-dlya-b2b",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Digital-маркетинг для b2b"
+            },
+            {
+              "id": "2c148845-d15c-42c5-aa01-cec43723d9d5",
+              "link": "/programs/event-management",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Event-менеджер онлайн-событий"
+            },
+            {
+              "id": "2a7fcebd-482d-4ccd-aafe-e21847ffeafe",
+              "link": "/programs/performance-marketer",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Performance-маркетолог"
+            },
+            {
+              "id": "1a34d503-d063-401a-a115-4e6170a9b3ba",
+              "link": "/programs/seo-specialist-pro",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "SEO-специалист PRO"
+            },
+            {
+              "id": "e8729df3-456d-4206-b079-0ee6d66b5112",
+              "link": "/programs/ux-copywriting",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "UX-писатель"
+            },
+            {
+              "id": "2aa78a43-4d9e-451f-ba61-086b385e7e13",
+              "link": "/programs/ws-web-analytics",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Веб-аналитика для маркетологов"
+            },
+            {
+              "id": "2a5a95ae-a813-43c5-b72a-30c9eb8683e8",
+              "link": "https://netology.ru/programs/smm-design",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Дизайн для соцсетей"
+            },
+            {
+              "id": "0c14e5e5-cd9d-42b9-be15-6e8cd1420126",
+              "link": "/programs/razrabotka-spetsproektov",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Спецпроекты: создание и продвижение"
+            },
+            {
+              "id": "6488a927-3a46-42bb-96ee-a66adc9f0854",
+              "link": "/programs/community-manager",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Комьюнити-менеджмент"
+            },
+            {
+              "id": "54f8abde-010a-4ca2-8edb-f88fd93069a8",
+              "link": "/programs/linkbuilding",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Линкбилдинг для SEO"
+            },
+            {
+              "id": "291ff13a-6c2d-4f80-bfab-edc63fbdf6bf",
+              "link": "https://netology.ru/programs/personalbrand",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Личный бренд"
+            },
+            {
+              "id": "9c481ef7-3595-4ec0-b319-2e02c01d0b80",
+              "link": "/programs/mobile-marketing",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Маркетинг мобильных приложений"
+            },
+            {
+              "id": "7eabf8ec-580c-4664-935f-eb5952f94fb7",
+              "link": "/programs/datamarketolog",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Маркетолог-аналитик"
+            },
+            {
+              "id": "06719b3b-71ae-4981-b701-22b6e0c01fab",
+              "link": "/programs/instagram",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Продвижение бизнеса через Instagram"
+            },
+            {
+              "id": "15060345-d00c-489f-8195-1dff7e1c4be6",
+              "link": "/programs/messenger-marketing",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Продвижение в мессенджерах"
+            },
+            {
+              "id": "fd0bcf78-1ad6-4266-a46f-79f7cbe36b30",
+              "link": "/programs/influence-marketing",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Продвижение через блогеров"
+            }
+          ],
+          "title": "Для профи"
+        },
+        {
+          "id": "9a596283-6ad2-4e4d-b948-519b4935709e",
+          "link": "",
+          "badge": {
+            "text": "",
+            "color": "#FFF",
+            "bgColor": "#E04D7E"
+          },
+          "items": [
+          ],
+          "title": "Для руководителей"
+        }
+      ],
+      "direction": {
+        "id": "2325581d-b12f-4989-b7e9-9a6e7c401673",
+        "link": "/marketing",
+        "badge": {
+          "text": "",
+          "color": "#FFF",
+          "bgColor": "#E04D7E"
+        },
+        "title": "Маркетинг"
+      }
+    },
+    {
+      "groups": [
+        {
+          "id": "5d4853ce-ae8a-4957-a3dc-fc336eb7e2f1",
+          "link": "",
+          "badge": {
+            "text": "НЕО",
+            "color": "#47C397",
+            "bgColor": "#EDFBF6"
+          },
+          "items": [
+            {
+              "id": "df0cb5c3-88d4-47d5-b303-110fbb96fe3b",
+              "link": "https://netology.ru/programs/project",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Профессия Project manager"
+            },
+            {
+              "id": "cc1ad737-93b0-46ab-90a8-cf2e139a3097",
+              "link": "https://netology.ru/programs/profession-product",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Профессия Product manager"
+            },
+            {
+              "id": "d86e7755-390f-4f48-8b18-77a3cb88651d",
+              "link": "https://netology.ru/programs/e-commerce-pro#/",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Профессия Руководитель интернет-магазина"
+            },
+            {
+              "id": "af050937-8526-45fc-ab5a-357ab298c69c",
+              "link": "https://netology.ru/programs/sales_manager#/",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Профессия Менеджер по продажам"
+            },
+            {
+              "id": "dcf03f18-6387-4751-b97d-1c5750eb98c2",
+              "link": "/programs/product-analytics",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Продуктовая аналитика"
+            },
+            {
+              "id": "be078629-7793-4738-bc12-2aeac1ee12a6",
+              "link": "/programs/top-manager",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Как стать результативным руководителем"
+            },
+            {
+              "id": "1ff9c0a8-1981-4bff-9e54-191ee5ee31c4",
+              "link": "/programs/investments-startup",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Как привлечь инвестиции в стартап"
+            },
+            {
+              "id": "6935a3b5-4e27-46b0-8f43-fa952f1bf3b9",
+              "link": "/programs/agile-for-all",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Управление по Agile: Scrum, Kanban, Lean"
+            },
+            {
+              "id": "52c0e655-67e1-4dd1-a149-046cd357987c",
+              "link": "https://netology.ru/programs/personal-investments",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Личные финансы и инвестиции"
+            },
+            {
+              "id": "9e798e24-9dc3-416f-8765-d4b7ce2b9e95",
+              "link": "https://netology.ru/programs/marketplace_ali#/presentation",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "AliExpress: старт продаж на маркетплейсах"
+            },
+            {
+              "id": "6a531916-399f-4fc0-9efc-745286c390ee",
+              "link": "https://netology.ru/programs/financial_analyst",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Финансовая аналитика"
+            }
+          ],
+          "title": "Для начинающих"
+        },
+        {
+          "id": "b36e2f4e-2a05-466f-acf4-0a3aa732cbd2",
+          "link": "",
+          "badge": {
+            "text": "ПРО",
+            "color": "#0066FF",
+            "bgColor": "#E6F0FF"
+          },
+          "items": [
+            {
+              "id": "ac08418d-bbf7-4a8d-a497-ff145c52caf1",
+              "link": "https://netology.ru/programs/product-marketing-manager",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Профессия Продакт-маркетолог"
+            },
+            {
+              "id": "67b38275-a3d1-4e96-8945-d58c55c47979",
+              "link": "https://netology.ru/programs/sales-executive",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Профессия Руководитель отдела продаж"
+            },
+            {
+              "id": "6e435e0f-96a6-4286-877e-e3aea5441e8c",
+              "link": "https://netology.ru/programs/business-analytics-online#/",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Профессия Бизнес-аналитик  "
+            },
+            {
+              "id": "49b813b5-bcfd-4eb4-887d-aa900a7448d2",
+              "link": "https://netology.ru/programs/mobile_product",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Product manager мобильного приложения"
+            },
+            {
+              "id": "35b0503f-dbef-4427-be8c-fd2b601b4976",
+              "link": "https://netology.ru/programs/business_tracker",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Трекер для бизнеса"
+            },
+            {
+              "id": "0bb01f31-2540-4b07-a511-4083427c137e",
+              "link": "/programs/finance-management",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Финансы для предпринимателя"
+            },
+            {
+              "id": "3aa808fb-3d2f-4070-bf0e-0122e168cf0d",
+              "link": "https://netology.ru/programs/taxes_legal_for_business#/presentation",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "Право и налогообложение для бизнеса"
+            }
+          ],
+          "title": "Для профи"
+        },
+        {
+          "id": "a0c60602-f9fd-4967-b818-d9f31dbdc6b1",
+          "link": "",
+          "badge": {
+            "text": "",
+            "color": "#FFF",
+            "bgColor": "#E04D7E"
+          },
+          "items": [
+            {
+              "id": "ab41d4ef-b442-4229-9b21-70b37d590e8d",
+              "link": "https://netology.ru/free-lessons/financial_analyst_dod",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "День открытых дверей: Финансовый аналитик"
+            },
+            {
+              "id": "7e07bd40-b43c-4934-b5b5-c1598f313e2f",
+              "link": "https://netology.ru/free-lessons/rop-dod",
+              "badge": {
+                "text": "",
+                "color": "#FFF",
+                "bgColor": "#E04D7E"
+              },
+              "title": "День открытых дверей: Менеджер по продажам и Руководитель отдела продаж"
+            }
+          ],
+          "title": "Бесплатно"
+        }
+      ],
+      "direction": {
+        "id": "a28aeb70-1548-44f9-9d6c-341916fc49d2",
+        "link": "/management",
+        "badge": {
+          "text": "",
+          "color": "#FFF",
+          "bgColor": "#E04D7E"
+        },
+        "title": "Бизнес и управление"
+      }
+    }
+  ]
+}

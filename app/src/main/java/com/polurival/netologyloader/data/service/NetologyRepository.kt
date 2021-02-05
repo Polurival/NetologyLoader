@@ -1,10 +1,8 @@
 package com.polurival.netologyloader.data.service
 
-import com.polurival.netologyloader.data.model.TaskResponse
 import com.polurival.netologyloader.presentation.model.SubjectItem
 import com.polurival.netologyloader.utils.ResponseConverter
 import kotlinx.coroutines.CoroutineDispatcher
-import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.flow.flowOn
@@ -14,7 +12,7 @@ import kotlinx.coroutines.flow.flowOn
  */
 class NetologyRepository(
     private val netologyService: NetologyService,
-    private val defaultDispatcher: CoroutineDispatcher = Dispatchers.Default
+    private val defaultDispatcher: CoroutineDispatcher
 ) {
     private val responseConverter = ResponseConverter()
 
@@ -22,15 +20,4 @@ class NetologyRepository(
     val tasksFlow: Flow<List<SubjectItem>>
         get() = flow { emit(responseConverter.convert(netologyService.getAllTasks())) }
             .flowOn(defaultDispatcher)
-
-    //todo move to DI
-    companion object {
-        @Volatile
-        private var instance: NetologyRepository? = null
-
-        fun getInstance(netologyService: NetologyService) =
-            instance ?: synchronized(this) {
-                instance ?: NetologyRepository(netologyService).also { instance = it }
-            }
-    }
 }
