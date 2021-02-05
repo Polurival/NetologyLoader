@@ -22,7 +22,11 @@ class MainViewModel(private val netologyRepository: NetologyRepository) : ViewMo
         return uiState
     }
 
-    fun requestSubjects() {
+    init {
+        requestSubjects()
+    }
+
+    private fun requestSubjects() {
         viewModelScope.launch {
             uiState.postValue(Resource.loading(null))
             netologyRepository.tasksFlow

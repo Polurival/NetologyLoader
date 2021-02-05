@@ -31,7 +31,6 @@ class MainActivity : AppCompatActivity() {
         setupTitle()
         setupSubjects()
         setupObserver()
-        mainViewModel.requestSubjects()
     }
 
     private fun setupTitle() {
